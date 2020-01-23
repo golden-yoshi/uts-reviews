@@ -1,3 +1,3 @@
 # uts-reviews
 
-sharing code on github to help us collaborate better
+URL: http://uts-reviews.herokuapp.com/
